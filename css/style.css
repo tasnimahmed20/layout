@@ -1,0 +1,21 @@
+.header,
+.hero,
+.body,
+.bar,
+.footer {
+    background: skyblue;
+    margin-bottom: 15px;
+}
+
+.box {
+    margin: 10px 0px;
+    background: limegreen;
+    color: #fff;
+    font-size: 30px;
+    min-height: 80px;
+    margin: 10px 0px;
+}
+
+.box2 {
+    background: crimson;
+}
